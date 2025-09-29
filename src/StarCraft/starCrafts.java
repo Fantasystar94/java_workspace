@@ -4,9 +4,9 @@ public class starCrafts {
     public static void main(String[] args) {
         star1(10);
         star2(7);
-//        star3(2);
-//            star4();
-//        star5();
+        star3(2);
+            star4();
+        star5();
     }
     public static void star1(int i){
         String star = "*";
