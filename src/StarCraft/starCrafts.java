@@ -6,7 +6,7 @@ public class starCrafts {
         star2(7);
         star3(2);
             star4();
-        star5();
+//        star5();
     }
     public static void star1(int i){
         String star = "*";
